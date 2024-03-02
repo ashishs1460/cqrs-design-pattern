@@ -29,3 +29,4 @@ curl --location --request PUT 'http://localhost:9191/products/1' \
     }
 }'
 ```
+This is an helpful repository for learing CQRS desgin pattern in Microservices
